@@ -10,7 +10,7 @@ Desterio Ochudi is an African innovator and technologist. He is passionate about
 - Android Development 
 - Web Development using MongoDB, Expressjs and Nodejs
 - Computer network administration and configuration
-- Fluent in Javascript and Java
+- Fluent in HTML, CSS, Javascript and Java
 
 
 💼 [Linkedin](https://www.linkedin.com/in/desteriochudi/)
