@@ -7,8 +7,8 @@
 Desterio Ochudi is an African innovator and technologist. He is passionate about Mobile application development and using technology to impact people’s lives positively. His goal is to leverage technology that provides solutions to day to day problems.
 
 ## Skills
-- Android Development 
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+ 
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code> Android 
 
 - Web Development using MongoDB, Expressjs and Nodejs
 - Computer network administration and configuration
