@@ -8,7 +8,7 @@ Desterio Ochudi is an African innovator and technologist. He is passionate about
 
 ## Skills
  
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>  
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code><code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code> <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code> 
 
 
 
