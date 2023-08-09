@@ -18,6 +18,6 @@ Desterio Ochudi is an African innovator and technologist. He is passionate about
 - Springboot for backend API
 
 
-💼 [Linkedin](https://www.linkedin.com/in/desteriochudi/)
+
 📚 [Pluralsight](https://app.pluralsight.com/profile/desterio-ochudi)
 
